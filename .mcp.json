@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "agentgem": {
+      "command": "npx",
+      "args": ["-y", "--package=@ninemind/agentgem", "agentgem-goldmine"],
+      "env": { "AGENTGEM_HOME": "${AGENTGEM_HOME}" }
+    }
+  }
+}

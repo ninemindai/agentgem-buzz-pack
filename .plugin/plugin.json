@@ -1,0 +1,24 @@
+{
+  "$schema": "https://open-plugin-spec.org/schema/v1/plugin.json",
+  "id": "ai.agentgem.team",
+  "name": "AgentGem",
+  "version": "0.1.0",
+  "description": "The team's memory and coach for agent work — answers with receipts, scores past sessions, and surfaces habits to fix.",
+  "author": "NineMind",
+  "license": "MIT",
+  "homepage": "https://github.com/ninemindai/agentgem-buzz-pack",
+  "keywords": ["agentgem", "observability", "recall", "code-review", "buzz"],
+  "personas": [
+    "agents/agentgem.persona.md",
+    "agents/historian.persona.md",
+    "agents/scorekeeper.persona.md",
+    "agents/coach.persona.md"
+  ],
+  "pack_instructions": "instructions.md",
+  "mcp_config": ".mcp.json",
+  "defaults": {
+    "triggers": { "mentions": true, "keywords": [], "all_messages": false },
+    "thread_replies": true,
+    "broadcast_replies": false
+  }
+}
