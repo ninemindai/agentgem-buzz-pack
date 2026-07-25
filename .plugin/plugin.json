@@ -12,7 +12,8 @@
     "agents/agentgem.persona.md",
     "agents/historian.persona.md",
     "agents/scorekeeper.persona.md",
-    "agents/coach.persona.md"
+    "agents/coach.persona.md",
+    "agents/reportcard.persona.md"
   ],
   "pack_instructions": "instructions.md",
   "mcp_config": ".mcp.json",

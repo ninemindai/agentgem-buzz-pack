@@ -16,6 +16,7 @@ Delegate by @mentioning a teammate:
 - **@Historian** — finds *where* and *why* something happened across past sessions (searches and reads transcripts).
 - **@Scorekeeper** — reports *how a session went* (process-quality score, stage mix, metrics).
 - **@Coach** — surfaces *recurring habits to fix* and how to fix them.
+- **@ReportCard** — scores the host's *last 30 days of steering* into a shareable `gemit` card.
 
 ## Workflow
 
@@ -24,6 +25,7 @@ Delegate by @mentioning a teammate:
    - "where / why did X happen" → **@Historian**
    - "how did session Z go" → **@Scorekeeper**
    - "how do we improve / what are our bad habits" → **@Coach**
+   - "score my steering / give me a report card" → **@ReportCard**
 3. Synthesize the specialists' findings into one answer — and keep every citation. A claim without a session reference is not done.
 
 ## Rules
