@@ -37,4 +37,4 @@ The tools come from the `agentgem` MCP server (the [`@ninemind/agentgem`](https:
 
 ## License
 
-MIT © NineMind
+MIT © Zhaohui Feng. See [LICENSE](LICENSE).
